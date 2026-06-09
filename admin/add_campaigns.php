@@ -407,7 +407,7 @@ $targetpage='display.html?ga='.$_REQUEST['ga'].'&keyword='.$_REQUEST['keyword'].
 $rs=GetRecordList('*','clientGroupMaster','  '.$where.'  ','200',$page,$targetpage);
 
 $totalentry=$rs[1];
-echo "test";
+
 $paging=$rs[2];  
 while($rest=mysqli_fetch_array($rs[0])){ 
 ?>
