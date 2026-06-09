@@ -1,0 +1,193 @@
+[27-Sep-2025 20:54:18 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[27-Sep-2025 20:54:18 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[27-Sep-2025 20:54:18 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[27-Sep-2025 20:54:18 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[27-Sep-2025 20:54:18 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[27-Sep-2025 20:54:18 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[27-Sep-2025 20:54:18 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[27-Sep-2025 20:54:18 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[01-Oct-2025 16:22:41 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[01-Oct-2025 16:22:41 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[01-Oct-2025 16:22:41 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[01-Oct-2025 16:22:41 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[01-Oct-2025 16:22:41 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[01-Oct-2025 16:22:41 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[01-Oct-2025 16:22:41 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[01-Oct-2025 16:22:41 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[01-Oct-2025 16:22:43 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[01-Oct-2025 16:22:43 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:38:04 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:38:04 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:38:04 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 11:38:04 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 11:38:04 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 11:38:04 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 11:38:04 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 11:38:04 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[02-Oct-2025 11:38:07 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:38:07 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:38:17 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:38:17 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:38:21 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:38:21 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:40:41 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:40:41 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:40:41 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 11:40:41 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 11:40:41 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 11:40:41 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 11:40:41 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 11:40:41 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[02-Oct-2025 11:54:02 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:54:02 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:54:02 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 11:54:02 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 11:54:02 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 11:54:02 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 11:54:02 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 11:54:02 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:56:55 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:57:40 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:57:40 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:57:40 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 11:57:40 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 11:57:40 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 11:57:40 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 11:57:40 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 11:57:40 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[02-Oct-2025 11:57:42 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:57:42 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:57:42 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 11:59:40 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:59:40 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 11:59:40 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 11:59:40 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 11:59:40 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 11:59:40 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 11:59:40 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 11:59:40 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[02-Oct-2025 12:01:01 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 12:01:01 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 12:01:01 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 12:01:01 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 12:01:01 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 12:01:01 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 12:01:01 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 12:01:01 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[02-Oct-2025 12:40:14 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 12:40:14 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 12:40:14 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 12:40:14 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 12:40:14 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 12:40:14 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 12:40:14 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 12:40:14 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[02-Oct-2025 12:44:45 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 12:44:45 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[02-Oct-2025 12:44:45 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[02-Oct-2025 12:44:45 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[02-Oct-2025 12:44:45 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[02-Oct-2025 12:44:45 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[02-Oct-2025 12:44:45 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[02-Oct-2025 12:44:45 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[03-Oct-2025 09:54:49 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[03-Oct-2025 09:54:49 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[03-Oct-2025 09:54:49 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[03-Oct-2025 09:54:49 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[03-Oct-2025 09:54:49 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[03-Oct-2025 09:54:49 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[03-Oct-2025 09:54:49 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[03-Oct-2025 09:54:49 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[03-Oct-2025 10:57:20 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[03-Oct-2025 10:57:20 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[03-Oct-2025 10:57:20 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[03-Oct-2025 10:57:20 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[03-Oct-2025 10:57:20 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[03-Oct-2025 10:57:20 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[03-Oct-2025 10:57:20 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[03-Oct-2025 10:57:20 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[03-Oct-2025 11:00:10 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[03-Oct-2025 11:00:10 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[03-Oct-2025 11:01:07 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[03-Oct-2025 11:01:07 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[03-Oct-2025 11:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[03-Oct-2025 11:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[03-Oct-2025 11:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[03-Oct-2025 11:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[03-Oct-2025 11:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[03-Oct-2025 11:01:07 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[04-Oct-2025 11:18:29 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[04-Oct-2025 11:18:29 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[04-Oct-2025 11:18:29 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[04-Oct-2025 11:18:29 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[04-Oct-2025 11:18:29 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[04-Oct-2025 11:18:29 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[04-Oct-2025 11:18:29 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[04-Oct-2025 11:18:29 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[16-Oct-2025 03:03:11 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[16-Oct-2025 03:03:11 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[16-Oct-2025 03:03:11 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[16-Oct-2025 03:03:11 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[16-Oct-2025 03:03:11 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[16-Oct-2025 03:03:11 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[16-Oct-2025 03:03:11 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[16-Oct-2025 03:03:11 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[16-Oct-2025 03:03:14 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[16-Oct-2025 03:03:14 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[16-Oct-2025 03:03:14 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[16-Oct-2025 03:03:14 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[16-Oct-2025 03:03:14 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[16-Oct-2025 03:03:14 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[16-Oct-2025 03:03:14 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[16-Oct-2025 03:03:14 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[16-Oct-2025 03:03:18 Asia/Calcutta] PHP Warning:  include(agenturlinc.php): Failed to open stream: No such file or directory in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[16-Oct-2025 03:03:18 Asia/Calcutta] PHP Warning:  include(): Failed opening 'agenturlinc.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/chalofly/public_html/pay.chalofly.com/config/setting.php on line 2
+[16-Oct-2025 03:03:18 Asia/Calcutta] PHP Warning:  Undefined array key "merchantId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 9
+[16-Oct-2025 03:03:18 Asia/Calcutta] PHP Warning:  Undefined array key "transactionId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 10
+[16-Oct-2025 03:03:18 Asia/Calcutta] PHP Warning:  Undefined array key "providerReferenceId" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 11
+[16-Oct-2025 03:03:18 Asia/Calcutta] PHP Warning:  Undefined array key "amount" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 12
+[16-Oct-2025 03:03:18 Asia/Calcutta] PHP Warning:  Undefined array key "code" in /home/chalofly/public_html/pay.chalofly.com/success.php on line 15
+[16-Oct-2025 03:03:18 Asia/Calcutta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chalofly/public_html/pay.chalofly.com/config/function.php on line 1182
+[27-Oct-2025 15:22:15 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[27-Oct-2025 15:22:15 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[02-Nov-2025 13:20:35 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[02-Nov-2025 13:20:35 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[08-Nov-2025 12:32:27 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[08-Nov-2025 12:32:27 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[20-Nov-2025 15:00:10 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[20-Nov-2025 15:00:10 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[20-Nov-2025 15:00:13 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[20-Nov-2025 15:00:13 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[20-Nov-2025 15:00:15 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[20-Nov-2025 15:00:15 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[02-Dec-2025 21:19:18 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[02-Dec-2025 21:19:18 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[02-Dec-2025 21:19:21 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[02-Dec-2025 21:19:21 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[11-Dec-2025 23:59:30 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[11-Dec-2025 23:59:30 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[15-Dec-2025 18:15:41 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[15-Dec-2025 18:15:41 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[15-Dec-2025 18:33:42 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[15-Dec-2025 18:33:42 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[14-Feb-2026 19:39:08 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[14-Feb-2026 19:39:08 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[14-Feb-2026 21:02:20 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[14-Feb-2026 21:02:20 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[20-Feb-2026 10:40:55 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[20-Feb-2026 10:40:55 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[13-Mar-2026 12:23:24 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[13-Mar-2026 12:23:24 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[13-Mar-2026 18:00:10 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[13-Mar-2026 18:00:10 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[16-Mar-2026 00:57:24 UTC] PHP Warning:  Unknown: Failed to open stream: Permission denied in Unknown on line 0
+[16-Mar-2026 00:57:24 UTC] PHP Fatal error:  Failed opening required '/home/chalofly/public_html/pay.chalofly.com/success.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0

@@ -1,0 +1,181 @@
+body{
+    font-family:'Poppins',sans-serif;
+    background:#f5f7fb;
+    margin:0;
+    padding:0;
+    color:#222;
+}
+
+.hero-section{
+    background:url('images/banner.jpg') center/cover no-repeat;
+    padding:40px 0 120px;
+    position:relative;
+}
+
+.hero-overlay{
+    background:linear-gradient(90deg,#003b95cc,#0077ff99);
+    position:absolute;
+    inset:0;
+}
+
+.hero-content{
+    position:relative;
+    z-index:2;
+}
+
+.main-search-box{
+    background:#fff;
+    border-radius:20px;
+    padding:25px;
+    box-shadow:0 10px 30px rgba(0,0,0,.12);
+    margin-top:30px;
+}
+
+.search-tabs{
+    display:flex;
+    gap:15px;
+    margin-bottom:20px;
+}
+
+.search-tabs button{
+    border:none;
+    background:#f2f5fb;
+    padding:12px 25px;
+    border-radius:12px;
+    font-weight:600;
+}
+
+.search-tabs .active{
+    background:#0d6efd;
+    color:#fff;
+}
+
+.flight-row{
+    display:flex;
+    gap:15px;
+    flex-wrap:wrap;
+}
+
+.flight-field{
+    flex:1;
+    min-width:180px;
+}
+
+.flight-field label{
+    display:block;
+    font-size:13px;
+    font-weight:600;
+    margin-bottom:8px;
+    color:#666;
+}
+
+.flight-field input{
+    width:100%;
+    height:58px;
+    border:1px solid #ddd;
+    border-radius:12px;
+    padding:0 15px;
+    font-size:16px;
+    font-weight:600;
+}
+
+.search-btn{
+    background:linear-gradient(180deg,#ff9800,#ff6b00);
+    color:#fff;
+    border:none;
+    height:58px;
+    padding:0 30px;
+    border-radius:12px;
+    font-weight:700;
+    margin-top:29px;
+    width:100%;
+}
+
+.offer-section{
+    padding:50px 0;
+}
+
+.section-title{
+    font-size:28px;
+    font-weight:700;
+    margin-bottom:25px;
+}
+
+.offer-card{
+    background:#fff;
+    border-radius:18px;
+    overflow:hidden;
+    box-shadow:0 4px 15px rgba(0,0,0,.08);
+    transition:.3s;
+    height:100%;
+}
+
+.offer-card:hover{
+    transform:translateY(-5px);
+}
+
+.offer-card img{
+    width:100%;
+    height:220px;
+    object-fit:cover;
+}
+
+.offer-card-content{
+    padding:18px;
+}
+
+.offer-card h4{
+    font-size:20px;
+    margin-bottom:10px;
+    font-weight:700;
+}
+
+.offer-card p{
+    color:#666;
+    font-size:14px;
+    line-height:1.6;
+}
+
+.testimonial-box{
+    background:#0c3c92;
+    color:#fff;
+    padding:25px;
+    border-radius:20px;
+}
+
+.footer{
+    background:#002b6b;
+    color:#fff;
+    padding:50px 0 20px;
+}
+
+.footer h5{
+    margin-bottom:20px;
+    font-weight:700;
+}
+
+.footer ul{
+    list-style:none;
+    padding:0;
+}
+
+.footer ul li{
+    margin-bottom:10px;
+}
+
+.footer ul li a{
+    color:#ddd;
+    text-decoration:none;
+}
+
+@media(max-width:768px){
+
+    .flight-row{
+        flex-direction:column;
+    }
+
+    .hero-section{
+        padding-bottom:70px;
+    }
+
+}

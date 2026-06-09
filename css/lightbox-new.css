@@ -1,0 +1,368 @@
+:root{
+  --primary:#111827;
+  --secondary:#1f2937;
+  --gold:#D4AF37;
+  --light:#f8fafc;
+  --white:#ffffff;
+  --text:#374151;
+  --border:#e5e7eb;
+}
+
+body{
+  background: var(--bs-body-bg) !important;
+  font-family:'Manrope',sans-serif;
+  color:var(--text);
+  line-height:1.7;
+}
+
+/* GLOBAL */
+h1,h2,h3,h4,h5,h6{
+  font-family:'Clash Display',sans-serif !important;
+  letter-spacing:.3px;
+  color:#111;
+}
+
+.card{
+  border:var(--bs-card-border-color) !important;
+  border-radius:24px !important;
+  overflow:hidden;
+  background:var(--bs-card-bg);
+  box-shadow:0 10px 40px rgba(15,23,42,.06) !important;
+  margin-bottom:28px;
+}
+
+.container{
+  max-width:1400px;
+}
+
+/* HERO */
+.hoteldetail {
+    background: var(--bs-secondary-bg-subtle);
+    border-radius: 24px;
+    padding: 0px 40px;
+    margin: 30px 0;
+    color: var(--bs-dark-text);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+}
+/* TITLE */
+.topheading h1 {
+    font-size: 42px;
+    font-weight: 700;
+    color: var(--bs-orange);
+    margin: 10px;
+    line-height: 1.1;
+}
+
+/* TAGS */
+.holidatnightbox {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+.daynight, .flexboxpack {
+    background: var(--blue);
+    backdrop-filter: blur(10px);
+    padding: 0px 20px !important;
+    border-radius: 10px !important;
+    color: fff;
+    font-size: 13px;
+    font-weight: 600;
+	height: 23px !important;
+}
+/*.daynight {
+    width: max-content;
+    height: 23px;
+    padding: 2px 5px 5px 5px;
+    border-radius: 4px;
+    background-color: #0f274f;
+    font-size: 11px;
+    color: #fff;
+    margin-right: 3px;
+    font-weight: 600;
+}*/
+.flexboxpack {
+    display: flex;
+    width: max-content;
+    height: 23px !important;
+    padding: 0px 5px 0px 5px;
+    border-radius: 4px;
+    background-color: var(--blue);
+    color: var(--white);
+    font-weight: 600;
+}
+
+/* PRICE BOX */
+.roompricing {
+    background:var(--blue);
+    color: #fff;
+    padding: 5px 35px;
+    border-radius: 24px;
+    min-width: 240px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, .15);
+}
+.roompricing {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+#toppriceht {
+    font-size: 34px;
+    color: #fff;
+    font-family: 'Clash Display', sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.roompricing p {
+    margin-top: 8px;
+    margin-bottom: 0;
+    font-size: 17px;
+    color: var(--bs-warning);
+    font-weight: 700;
+}
+
+/* GALLERY */
+.hoteldetailrow{
+  margin-top:25px !important;
+  overflow:hidden;
+}
+
+.roomoneimg img,
+.roomtwoimg img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  border-radius:24px;
+  transition:.4s;
+}
+
+.roomoneimg img:hover,
+.roomtwoimg img:hover{
+  transform:scale(1.03);
+}
+
+/* SECTION TITLE */
+.description h2,
+.dayheading{
+  font-size:42px !important;
+  margin-bottom:25px;
+  color:#111;
+}
+
+.description h2 span{
+  color:var(--gold);
+}
+
+/* ICON BOXES */
+.incbox{
+  width:110px;
+  text-align:center;
+  background:#fff;
+  border-radius:20px;
+  padding:18px 10px;
+  margin-right:15px;
+  margin-bottom:15px;
+  box-shadow:0 6px 20px rgba(0,0,0,.05);
+  transition:.3s;
+}
+
+.incbox:hover{
+  transform:translateY(-6px);
+}
+
+/* DAY PLAN */
+.dayboxes{
+  margin-bottom:40px;
+  position:relative;
+}
+
+.datebg{
+  background:var(--blue);
+  border-radius:18px;
+  padding:6px 6px;
+  display:flex;
+  align-items:center;
+  gap:20px;
+  color:#fff;
+}
+
+.datetab a{
+  color:#fff;
+  text-decoration:none;
+  font-weight:700;
+  background: var(--bs-orange);
+}
+.datetab a:hover{
+  background: var(--bs-info) !important;
+}
+.datebg p{
+  margin:0;
+  font-size:18px;
+  font-weight:600;
+  color:var(--bs-light);
+}
+
+.daytext{
+  font-size:15px;
+  line-height:1.9;
+  color:#444;
+}
+
+/* ITINERARY CARDS */
+.itinerariesbox{
+  background:#fff;
+  border-radius:24px;
+  box-shadow:0 10px 25px rgba(0,0,0,.05);
+}
+
+.itinerariesbox .card-body{
+  padding:30px !important;
+}
+
+.itinerariesbox h5{
+  font-size:24px !important;
+  margin-bottom:15px !important;
+}
+
+/* IMAGES */
+.actiimgbox{
+  height:240px;
+  border-radius:24px;
+  overflow:hidden;
+}
+
+.actiimgbox img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+
+/* FORM */
+.card-header{
+  background:var(--bs-orange) !important;
+  color:#fff;
+  border:none !important;
+}
+
+.card-header div:first-child{
+  font-size:24px !important;
+  font-family:'Clash Display',sans-serif;
+}
+
+.form-control{
+  height:54px;
+  border-radius:14px !important;
+  border:1px solid #dbe0e7 !important;
+  box-shadow:none !important;
+  font-size:15px;
+}
+
+textarea.form-control{
+  height:auto;
+}
+
+.btn-danger{
+  border:none !important;
+  border-radius:16px !important;
+  padding:16px !important;
+  font-weight:700;
+  font-size:16px;
+}
+
+
+
+/* TERMS */
+.termscss{
+  padding:35px !important;
+}
+
+.termscss h5{
+  font-size:32px !important;
+  margin-bottom:20px;
+}
+
+.termscss table{
+  width:100%;
+  border-collapse:collapse;
+  overflow:hidden;
+  border-radius:16px;
+}
+
+.termscss table th{
+  background:#111827 !important;
+  color:#fff !important;
+  padding:18px !important;
+}
+
+.termscss table td{
+  padding:18px !important;
+  background:#fff;
+}
+
+/* CONTACT CARD */
+.col-4 .card{
+  position:sticky;
+  top:20px;
+}
+
+/* MOBILE */
+@media(max-width:992px){
+
+.hoteldetail{
+  flex-direction:column;
+  text-align:center;
+}
+
+.topheading h1{
+  font-size:38px;
+}
+
+.description h2,
+.dayheading{
+  font-size:30px !important;
+}
+
+.col-4,
+.col-lg-8{
+  width:100%;
+  max-width:100%;
+  flex:100%;
+}
+
+.col-4{
+  margin-top:30px;
+}
+
+.roompricing{
+  width:100%;
+}
+
+.datebg{
+  flex-direction:column;
+  align-items:flex-start;
+}
+
+}
+.btn-otp{
+  font-size: 12px;
+    font-weight: 600;
+    min-height: 37px !important;
+    margin-top: 10px;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+.carousel-item {
+    transition: transform 2s ease-in-out;
+}
+.cbtn-clr{
+  background:var(--bs-orange) !important;
+}
